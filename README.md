@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am a graduate student from Tribhuvan University, IAAS. I like coding.
 
 <!--
 **Anup-20/Anup-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
